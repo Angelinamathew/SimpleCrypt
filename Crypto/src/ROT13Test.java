@@ -2,9 +2,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+import org.junit.Test;
 public class ROT13Test {
-
-
     @Test
     public void rotateStringTest0() {
         // Given
